@@ -10,8 +10,10 @@
       <p class="mb-5">
         Desarrollo de sistemas para el ambito privado.
         En los proyectos en los que participé se utilizaron: Git, Gitlab, PHP, Laravel,
-        Docker, Vue, Bootstrap, Wordpress. Scrumban como metodología en Jira.
-        Configuración para CI/CD con Deployer.
+        Docker, Vue, Bootstrap, Wordpress, CakePHP, Nginx y Apache2. Scrumban como
+        metodología en Jira. Configuración para CI/CD con Deployer. Configuración
+        de servidores para el despliegue de sistemas webs. Integración con SignNow para
+        la administración de firma electrónica de documentos.
       </p>
     </li>
     <li class="timeline-item">
@@ -20,7 +22,8 @@
       <p class="mb-5 description">
         Desarrollo de sistemas para el ambito privado.
         En el proyecto en el que participé se utilizaron: Git, Bitbucket, PHP, Laravel,
-        Docker, Bootstrap, Reactjs. Scrumban como metodología con Jira.
+        Docker, Bootstrap, Reactjs. Scrumban como metodología con Jira. Integración con
+        QuickBooks para la administración de facturas.
       </p>
     </li>
     <li class="timeline-item">
