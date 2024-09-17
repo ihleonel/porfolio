@@ -2,6 +2,11 @@
 import LinkedinIcon from './Icons/LinkedinIcon.vue'
 import GithubIcon from './Icons/GithubIcon.vue'
 import TwitterIcon from './Icons/TwitterIcon.vue';
+
+const clipboard = () => {
+  navigator.clipboard.writeText('ibarra.h.leonel@gmail.com')
+}
+
 </script>
 <template>
   <div class="wrapper">
@@ -17,7 +22,7 @@ import TwitterIcon from './Icons/TwitterIcon.vue';
     <div class="email">
       ibarra.h.leonel@gmail.com
 
-      <button class="copy" title="Copiar">
+      <button class="copy" title="Copiar" @click="clipboard">
         <i class="fa-solid fa-copy"></i>
       </button>
     </div>
