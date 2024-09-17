@@ -67,11 +67,11 @@ body {
 }
 
 .social-media {
-  width: 150px;
+  width: 200px;
   display: flex;
   justify-content: space-between;
 
-  a {
+  a, button {
     display: inline-flex;
     justify-content: center;
     align-items: center;
@@ -93,13 +93,13 @@ body {
   color: var(--main-color);
 }
 
-.experiencia, .habilidades, .contacto {
+.experience, .habilities, .contact {
   display: flex;
   width: 700px;
   flex-direction: column;
   margin-top: 4em;
 }
 
-.contacto {
+.contact {
   margin-bottom: 4em;
 }

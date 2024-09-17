@@ -4,7 +4,7 @@ import GithubIcon from './Components/Icons/GithubIcon.vue'
 import TwitterIcon from './Components/Icons/TwitterIcon.vue';
 import Timeline from './Components/Timeline.vue';
 import Skills from './Components/Skills.vue';
-import Contact from './Components/Contact.vue';
+import EmailIcon from './Components/Icons/EmailIcon.vue';
 </script>
 <template>
   <main>
@@ -21,6 +21,7 @@ import Contact from './Components/Contact.vue';
           <LinkedinIcon />
           <GithubIcon />
           <TwitterIcon />
+          <EmailIcon />
         </div>
       </div>
       <div class="presentation-right">
@@ -31,11 +32,11 @@ import Contact from './Components/Contact.vue';
         >
       </div>
     </section>
-    <section class="experiencia">
+    <section class="experience">
       <h3 class="fw-bold">Experiencia</h3>
       <Timeline />
     </section>
-    <section class="habilidades">
+    <section class="habilities">
       <h3 class="fw-bold">Tecnologías</h3>
       <p>
         A continuación listo algunas de las tecnologías con las que trabajé
@@ -43,9 +44,18 @@ import Contact from './Components/Contact.vue';
       </p>
       <Skills />
     </section>
-    <section class="contacto">
+    <section class="contact">
       <h3 class="fw-bold">Contacto</h3>
-      <Contact />
+      <p>
+        Para más información pueden visitar mis redes sociales o copiar mi correo electrónico haciendo
+        clic en el icono de abajo.
+      </p>
+      <div class="social-media">
+        <LinkedinIcon />
+        <GithubIcon />
+        <TwitterIcon />
+        <EmailIcon />
+      </div>
     </section>
   </main>
 </template>
