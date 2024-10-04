@@ -39,8 +39,8 @@ import EmailIcon from './Components/Icons/EmailIcon.vue';
     <section class="habilities">
       <h3 class="fw-bold">Tecnologías</h3>
       <p>
-        A continuación listo algunas de las tecnologías con las que trabajé
-        en estos años como desarrollador y con las que me siento cómodo y seguro de mis conocimientos.
+        Tecnologías con las que trabajé en estos años como desarrollador y con las que
+        me siento cómodo y seguro de mis conocimientos. Aplicadas tanto en proyectos greenfields y brownfields.
       </p>
       <Skills />
     </section>

@@ -20,7 +20,7 @@
       <h5 class="fw-bold title">ECI Solution Software</h5>
       <p class="mb-2 dates">Abril 2022 - Abril 2023</p>
       <p class="mb-5 description">
-        Desarrollo de sistemas para el ambito privado.
+        Desarrollo de sistemas para el ambito privado. Modernización de aplicaciones existentes.
         En el proyecto en el que participé se utilizaron: Git, Bitbucket, PHP, Laravel,
         Docker, Bootstrap, Reactjs. Scrumban como metodología con Jira. Integración con
         QuickBooks para la administración de facturas.
@@ -30,7 +30,7 @@
       <h5 class="fw-bold title">Gobierno de la provincia de Salta</h5>
       <p class="mb-2 dates">Abril 2018 - Abril 2022</p>
       <p class="mb-5">
-        Desarrollo de sistemas para el ambito público, enfocados en la gestion de documentos.
+        Desarrollo de sistemas para el ambito público, enfocados en la gestion de documentos y modernización del estado.
         Firma digital de documentos. En los proyectos en los que participé se utilizaron: Git,
         Gitlab, PHP, Laravel, Docker, Elastic, Vue, Bootstrap, React Native, Expo. Scrumban
         como metodología. Configuración para CI/CD.
